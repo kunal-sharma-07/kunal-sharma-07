@@ -12,3 +12,6 @@
 ## Goals
 - Build AI tools
 - Create automation projects
+
+## Connect With Me
+Email: kunalsharma94193@gmail.com
