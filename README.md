@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi 👋 I'm a BTech CSE Student
 
-<!--
-**kunal-sharma-07/kunal-sharma-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Learning Programming
+🚀 Interested in AI and Web Development
 
-Here are some ideas to get you started:
+## Skills
+- C Programming
+- HTML
+- CSS
+- JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Goals
+- Build AI tools
+- Create automation projects
